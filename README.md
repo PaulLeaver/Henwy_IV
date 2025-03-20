@@ -7,3 +7,4 @@ Things that this code has is:
 3. color sort
 4. macro code to make a motor spin until the encoder reads a certaint value
    
+also in main.cpp you will find fuctions for a virtual feild and tetris, do not use them they do NOT work.
